@@ -6,7 +6,7 @@ export const VISITORS = [
   },
   {
     guests: ["David", "Johan"],
-    startDate: "2026-03-04",
+    startDate: "2026-03-01",
     endDate: "2026-03-08",
     note: "Johan og David skal pa besok 3-8 mars.",
   },
