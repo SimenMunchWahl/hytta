@@ -1,3 +1,8 @@
+import hytta2Image from "../assets/images/hytta2.png";
+import stueImage from "../assets/images/stue.png";
+import kjokkenImage from "../assets/images/kjokken.png";
+import plattingImage from "../assets/images/platting.png";
+
 export const NAV_ITEMS = [
   { id: "om", label: "Om" },
   { id: "galleri", label: "Galleri" },
@@ -22,10 +27,10 @@ export const FACILITIES = [
 ];
 
 export const GALLERY_ITEMS = [
-  { title: "Fasade", image: "/hytta2.png" },
-  { title: "Stue", image: "/stue.png" },
-  { title: "Kjokken", image: "/kjokken.png" },
-  { title: "Terrasse", image: "/platting.png" },
+  { title: "Fasade", image: hytta2Image },
+  { title: "Stue", image: stueImage },
+  { title: "Kjokken", image: kjokkenImage },
+  { title: "Terrasse", image: plattingImage },
 ];
 
 export const PRACTICAL_INFO = {

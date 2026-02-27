@@ -16,9 +16,10 @@ import { getHeaderVisitInfo, getWelcomeMessage } from "./data/visitors";
 import { useCurrentWeather } from "./hooks/useCurrentWeather";
 import { useScrollReveal } from "./hooks/useScrollReveal";
 import { useSectionScroll } from "./hooks/useSectionScroll";
+import backgroundImage from "./assets/images/hytta.png";
 import "./styles/app.css";
 
-const BACKGROUND_IMAGE = "/hytta.png";
+const BACKGROUND_IMAGE = backgroundImage;
 const GATE_STORAGE_KEY = "hytta_gate_unlocked";
 const APP_PASSWORD = (import.meta.env.VITE_APP_PASSWORD || "hytta123").trim();
 
