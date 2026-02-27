@@ -528,7 +528,8 @@
 
 .hero-actions .btn-primary,
 .cta-row .btn-primary,
-.footer-logout {
+.footer-logout,
+.gate-form .btn-primary {
   border-color: #ffffff;
   background: transparent;
   color: #ffffff;
@@ -536,7 +537,8 @@
 
 .hero-actions .btn-primary:hover,
 .cta-row .btn-primary:hover,
-.footer-logout:hover {
+.footer-logout:hover,
+.gate-form .btn-primary:hover {
   background: #ffffff;
   border-color: #ffffff;
   color: #1d1a16;
