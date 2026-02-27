@@ -16,7 +16,7 @@ import { getHeaderVisitInfo, getWelcomeMessage } from "./data/visitors";
 import { useCurrentWeather } from "./hooks/useCurrentWeather";
 import { useScrollReveal } from "./hooks/useScrollReveal";
 import { useSectionScroll } from "./hooks/useSectionScroll";
-import backgroundImage from "./assets/images/hytta.png";
+import backgroundImage from "./assets/images/hytta.jpg";
 import "./styles/app.css";
 
 const BACKGROUND_IMAGE = backgroundImage;

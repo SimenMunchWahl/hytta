@@ -1,7 +1,7 @@
-import hytta2Image from "../assets/images/hytta2.png";
-import stueImage from "../assets/images/stue.png";
-import kjokkenImage from "../assets/images/kjokken.png";
-import plattingImage from "../assets/images/platting.png";
+import hytta2Image from "../assets/images/hytta2.jpg";
+import stueImage from "../assets/images/stue.jpg";
+import kjokkenImage from "../assets/images/kjokken.jpg";
+import plattingImage from "../assets/images/platting.jpg";
 
 export const NAV_ITEMS = [
   { id: "om", label: "Om" },
