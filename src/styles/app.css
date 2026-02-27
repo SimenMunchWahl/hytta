@@ -118,8 +118,8 @@
 }
 
 .gate-input:focus {
-  outline: 1px solid #9aaa7a;
-  border-color: #9aaa7a;
+  outline: 1px solid #ffffff;
+  border-color: #ffffff;
 }
 
 .gate-submit {

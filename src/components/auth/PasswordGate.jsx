@@ -20,9 +20,7 @@ export function PasswordGate({ onUnlock }) {
   return (
     <div className="gate-shell">
       <div className="gate-panel">
-        <p className="kicker">Privat side</p>
         <h1 className="gate-title">Elkjærvegen 28</h1>
-        <p className="gate-text">Enter password to continue.</p>
 
         <form className="gate-form" onSubmit={handleSubmit}>
           <label htmlFor="gate-password" className="gate-label">
