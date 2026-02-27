@@ -74,7 +74,7 @@ export const VISIT_PHASE_SECTIONS = [
       "Kluter og laken kan legges på vaskerommet i gangen.",
       "Persienner og gardiner skal trekkes over.",
       "Manuelle varmeovner settes til 7 grader.",
-      "Lukk alle vinduer og lås alle dører.",
+      "Lukk alle vinduer, lås alle dører og ta med søppel.",
       "God tur hjem, og på gjensyn!",
     ],
   },
