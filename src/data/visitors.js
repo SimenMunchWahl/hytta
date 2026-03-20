@@ -5,10 +5,10 @@ export const VISITORS = [
     isDefault: true,
   },
   {
-    guests: ["David", "Johan"],
-    startDate: "2026-03-01",
-    endDate: "2026-03-08",
-    note: "Johan og David skal pa besok 3-8 mars.",
+    guests: ["Vibeke", "Simen"],
+    startDate: "2026-03-20",
+    endDate: "2026-03-22",
+    note: "Vibeke og Simen besøker hytta 20-22 mars.",
   },
 ];
 
